@@ -1,4 +1,4 @@
-# express-app-testing-demo :)
+# express-app-testing-demo
 
 [ ![Codeship Status for Manilli/express-app-testing-demo](https://app.codeship.com/projects/5a8c5b70-45fd-0136-73e8-46e54b124c02/status?branch=master)](https://app.codeship.com/projects/292017)
 
